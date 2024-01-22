@@ -1,0 +1,133 @@
+2023-10-20 20:16:18|DEBUG|Saved to bank.db
+2023-10-20 20:16:23|DEBUG|Created account: 1
+2023-10-20 20:16:23|DEBUG|Saved to bank.db
+2023-10-20 20:16:34|DEBUG|Created account: 2
+2023-10-20 20:16:34|DEBUG|Saved to bank.db
+2023-10-20 20:16:39|DEBUG|Created account: 3
+2023-10-20 20:16:39|DEBUG|Saved to bank.db
+2023-10-20 20:16:44|DEBUG|Created account: 4
+2023-10-20 20:16:44|DEBUG|Saved to bank.db
+2023-10-20 20:17:00|DEBUG|Created transaction: 1, 300
+2023-10-20 20:17:00|DEBUG|Saved to bank.db
+2023-10-20 20:17:11|DEBUG|Created transaction: 1, 0.24000000000000000000
+2023-10-20 20:17:11|DEBUG|Triggered interest and fees
+2023-10-20 20:17:11|DEBUG|Saved to bank.db
+2023-10-20 20:17:22|ERROR|type: "<class 'AttributeError'>"
+2023-10-20 20:17:37|DEBUG|Loaded from bank.db
+2023-10-20 20:17:44|DEBUG|Created transaction: 2, 300
+2023-10-20 20:17:44|DEBUG|Saved to bank.db
+2023-10-20 20:17:47|DEBUG|Created transaction: 2, 1.23000000000000000000
+2023-10-20 20:17:47|DEBUG|Triggered interest and fees
+2023-10-20 20:17:47|DEBUG|Saved to bank.db
+2023-10-20 20:19:28|DEBUG|Loaded from bank.db
+2023-10-20 20:19:43|DEBUG|Loaded from bank.db
+2023-10-20 20:20:43|DEBUG|Loaded from bank.db
+2023-10-20 20:20:54|ERROR|type: "<class 'IndexError'>"
+2023-10-20 20:21:29|DEBUG|Loaded from bank.db
+2023-10-20 20:21:35|DEBUG|Created transaction: 3, 300
+2023-10-20 20:21:35|DEBUG|Saved to bank.db
+2023-10-20 20:21:44|DEBUG|Created transaction: 4, 200
+2023-10-20 20:21:44|DEBUG|Saved to bank.db
+2023-10-20 20:22:03|DEBUG|Created transaction: 4, -200
+2023-10-20 20:22:03|DEBUG|Saved to bank.db
+2023-10-20 20:22:08|DEBUG|Created transaction: 4, 0E-20
+2023-10-20 20:22:08|DEBUG|Triggered interest and fees
+2023-10-20 20:22:08|DEBUG|Saved to bank.db
+2023-10-20 20:22:20|DEBUG|Created transaction: 3, -240
+2023-10-20 20:22:20|DEBUG|Saved to bank.db
+2023-10-20 20:22:22|DEBUG|Created transaction: 3, 0.04800000000000000000
+2023-10-20 20:22:22|DEBUG|Created transaction: 3, -5.440000000000000390798504668
+2023-10-20 20:22:22|DEBUG|Triggered interest and fees
+2023-10-20 20:22:22|DEBUG|Saved to bank.db
+2023-10-20 20:22:40|ERROR|type: "<class '_tkinter.TclError'>"
+2023-10-20 20:28:47|DEBUG|Loaded from bank.db
+2023-10-20 20:28:59|ERROR|type: "<class '_tkinter.TclError'>"
+2023-10-20 20:29:22|DEBUG|Loaded from bank.db
+2023-10-20 20:29:43|DEBUG|Loaded from bank.db
+2023-10-20 20:29:53|ERROR|type: "<class '_tkinter.TclError'>"
+2023-10-20 20:36:10|DEBUG|Loaded from bank.db
+2023-10-20 20:39:27|DEBUG|Loaded from bank.db
+2023-10-20 20:39:31|ERROR|type: "<class '_tkinter.TclError'>"
+2023-10-20 20:39:59|DEBUG|Loaded from bank.db
+2023-10-20 20:41:44|DEBUG|Loaded from bank.db
+2023-10-20 20:42:27|DEBUG|Loaded from bank.db
+2023-10-20 20:43:05|DEBUG|Loaded from bank.db
+2023-10-20 20:43:34|DEBUG|Loaded from bank.db
+2023-10-20 20:43:51|DEBUG|Loaded from bank.db
+2023-10-20 20:43:59|DEBUG|Loaded from bank.db
+2023-10-20 20:44:46|DEBUG|Loaded from bank.db
+2023-10-20 20:45:26|DEBUG|Loaded from bank.db
+2023-10-20 20:45:34|DEBUG|Created account: 5
+2023-10-20 20:45:34|DEBUG|Saved to bank.db
+2023-10-20 20:45:43|DEBUG|Created account: 6
+2023-10-20 20:45:43|DEBUG|Saved to bank.db
+2023-10-20 20:48:31|DEBUG|Loaded from bank.db
+2023-10-20 20:48:56|DEBUG|Created transaction: 1, 200
+2023-10-20 20:48:56|DEBUG|Saved to bank.db
+2023-10-20 21:09:57|DEBUG|Loaded from bank.db
+2023-10-20 21:12:58|DEBUG|Loaded from bank.db
+2023-10-20 21:14:13|DEBUG|Loaded from bank.db
+2023-10-20 21:21:28|DEBUG|Loaded from bank.db
+2023-10-20 21:21:37|DEBUG|Created transaction: 1, 1
+2023-10-20 21:21:37|DEBUG|Saved to bank.db
+2023-10-20 21:22:53|DEBUG|Loaded from bank.db
+2023-10-20 21:23:23|DEBUG|Loaded from bank.db
+2023-10-20 21:24:57|DEBUG|Loaded from bank.db
+2023-10-20 21:26:48|DEBUG|Loaded from bank.db
+2023-10-20 21:26:59|DEBUG|Created transaction: 1, 123.2313
+2023-10-20 21:26:59|DEBUG|Saved to bank.db
+2023-10-20 21:28:31|DEBUG|Loaded from bank.db
+2023-10-20 21:29:00|DEBUG|Loaded from bank.db
+2023-10-20 21:30:17|DEBUG|Loaded from bank.db
+2023-10-20 21:31:49|DEBUG|Loaded from bank.db
+2023-10-20 21:32:17|DEBUG|Loaded from bank.db
+2023-10-20 21:33:34|DEBUG|Loaded from bank.db
+2023-10-20 21:38:47|DEBUG|Loaded from bank.db
+2023-10-20 21:44:42|DEBUG|Loaded from bank.db
+2023-10-20 21:45:11|DEBUG|Loaded from bank.db
+2023-10-20 21:45:27|DEBUG|Created transaction: 1, -2
+2023-10-20 21:45:27|DEBUG|Saved to bank.db
+2023-10-20 21:45:49|DEBUG|Loaded from bank.db
+2023-10-20 21:45:56|ERROR|type: "<class 'TypeError'>"
+2023-10-20 21:46:19|DEBUG|Loaded from bank.db
+2023-10-20 21:46:33|ERROR|type: "<class 'TypeError'>"
+2023-10-20 21:46:47|DEBUG|Loaded from bank.db
+2023-10-20 21:47:01|DEBUG|Created transaction: 1, -12
+2023-10-20 21:47:01|DEBUG|Saved to bank.db
+2023-10-20 21:59:20|DEBUG|Loaded from bank.db
+2023-10-20 22:06:55|DEBUG|Loaded from bank.db
+2023-10-20 22:09:13|DEBUG|Loaded from bank.db
+2023-10-20 22:10:06|DEBUG|Loaded from bank.db
+2023-10-20 22:10:47|DEBUG|Loaded from bank.db
+2023-10-20 22:11:25|DEBUG|Loaded from bank.db
+2023-10-20 22:11:51|ERROR|type: "<class 'IndexError'>"
+2023-10-20 22:29:08|DEBUG|Loaded from bank.db
+2023-10-20 22:29:28|DEBUG|Created transaction: 1, 780
+2023-10-20 22:29:28|DEBUG|Saved to bank.db
+2023-10-20 22:29:37|DEBUG|Created transaction: 1, 1.11237704000000000000
+2023-10-20 22:29:37|DEBUG|Triggered interest and fees
+2023-10-20 22:29:37|DEBUG|Saved to bank.db
+2023-10-20 22:38:15|DEBUG|Loaded from bank.db
+2023-10-20 22:44:00|DEBUG|Loaded from bank.db
+2023-10-20 22:44:43|DEBUG|Loaded from bank.db
+2023-10-20 22:56:10|DEBUG|Loaded from bank.db
+2023-10-20 22:56:19|DEBUG|Created account: 7
+2023-10-20 22:56:19|DEBUG|Saved to bank.db
+2023-10-20 22:59:27|DEBUG|Loaded from bank.db
+2023-10-20 23:00:34|DEBUG|Created transaction: 3, 230
+2023-10-20 23:00:34|DEBUG|Saved to bank.db
+2023-10-20 23:03:48|ERROR|type: "<class 'IndexError'>"
+2023-10-20 23:03:52|DEBUG|Loaded from bank.db
+2023-10-20 23:57:28|DEBUG|Loaded from bank.db
+2023-10-20 23:57:38|DEBUG|Created account: 8
+2023-10-20 23:57:38|DEBUG|Saved to bank.db
+2023-10-20 23:57:44|DEBUG|Created account: 9
+2023-10-20 23:57:44|DEBUG|Saved to bank.db
+2023-12-09 19:48:01|DEBUG|Loaded from bank.db
+2023-12-09 19:48:10|DEBUG|Created account: 10
+2023-12-09 19:48:10|DEBUG|Saved to bank.db
+2023-12-09 19:48:33|DEBUG|Created transaction: 10, 200
+2023-12-09 19:48:33|DEBUG|Saved to bank.db
+2023-12-09 19:48:38|DEBUG|Created transaction: 10, 0.82000000000000000000
+2023-12-09 19:48:38|DEBUG|Triggered interest and fees
+2023-12-09 19:48:38|DEBUG|Saved to bank.db
